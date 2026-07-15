@@ -198,8 +198,8 @@ A secure authentication system implementing:
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/kishore-21-08
-* LinkedIn: Add your LinkedIn profile URL.
-* Email: Add your professional email address.
+* LinkedIn: www.linkedin.com/in/kishore-r-07655733b
+* Email: kishore210806@gmail.com
 
 ---
 

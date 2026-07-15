@@ -1,10 +1,11 @@
-# Hi there, I'm Kishore R. 👋
-
 <div align="center">
 
-### Cybersecurity Student | Cloud & SOC Enthusiast | Python Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kishore+R;Cybersecurity+Student;SOC+Enthusiast+%7C+Python+Developer;Building+Practical+Security+Tools" alt="Typing SVG" />
 
-I'm a Computer Science & Engineering (Cybersecurity) student passionate about cybersecurity, cloud technologies, and building practical security projects. I enjoy learning new technologies and working on projects related to security, automation, and web development.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kishore-21-08&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=flat" />
+</p>
 
 </div>
 
@@ -12,211 +13,104 @@ I'm a Computer Science & Engineering (Cybersecurity) student passionate about cy
 
 ## 🚀 About Me
 
-* 🎓 B.E. Computer Science & Engineering (Cybersecurity) Student.
-* 🔐 Passionate about Cybersecurity, Cloud Computing, and Security Operations.
-* 🌱 Currently learning Google Cloud, SIEM, and Cloud Security.
-* 💻 Building cybersecurity and Python-based projects.
-* 🚀 Interested in Security Engineering, SOC Analysis, and Cloud Security.
-* 📚 Always exploring new tools and technologies.
+- 🎓 B.E. Computer Science & Engineering (Cybersecurity) student
+- 🔐 Passionate about cybersecurity, security operations, and threat detection
+- 🛠️ Building practical, hands-on cybersecurity projects
+- 📡 Interested in SOC Analysis, Threat Hunting, and Security Engineering
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 💼 Internships
 
-### Programming Languages
-
-* Python
-* C
-* HTML
-* CSS
-* JavaScript
-
-### Cybersecurity Skills
-
-* Network Security
-* Vulnerability Assessment
-* OWASP Top 10
-* Packet Analysis
-* OSINT
-* Secure Coding Practices
-* Web Security Fundamentals
-* Threat Detection Fundamentals
-* Security Operations Center (SOC) Basics
-
-### Cloud & Security
-
-* Google Cloud Platform (GCP)
-* Cloud Security Fundamentals
-* SIEM Basics
-* Wazuh
-* Splunk Fundamentals
-
-### Tools & Technologies
-
-* Git & GitHub
-* Flask
-* Linux
-* Kali Linux
-* Visual Studio Code
-* Burp Suite Community Edition
-* Nmap
-* Wireshark
+| Role | Organization |
+|------|--------------|
+| Cybersecurity Intern | VaultofCodes |
+| Cybersecurity Intern | Thiranex |
 
 ---
 
-## 💻 Projects
+## 🛠️ Tech Stack
 
-### OSINT Insight Pro
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,linux,git,github,html,css,js,vscode" />
+</p>
 
-An OSINT-based intelligence gathering tool developed using Flask.
+### Cybersecurity Tools
 
-**Features:**
-
-* Domain Lookup
-* Email Lookup
-* Username Lookup
-* WHOIS Lookup
-* DNS Lookup
-* IP Lookup
-* Report Generation
-* Search History Dashboard
-
----
-
-### Secure Login System
-
-A secure authentication system implementing:
-
-* Password Hashing
-* User Authentication
-* Secure Login Mechanisms
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-3766AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+</p>
 
 ---
 
-### Web Vulnerability Scanner
+## 🔥 Featured Projects
 
-**Features:**
-
-* Vulnerability Detection
-* Security Analysis
-* Web Security Testing
-
----
-
-### Network Packet Sniffer
-
-**Features:**
-
-* Packet Capture
-* Network Traffic Monitoring
-* Protocol Analysis
-
----
-
-### Password Strength Analyzer
-
-**Features:**
-
-* Password Complexity Analysis
-* Strength Evaluation
-* Security Recommendations
-
----
-
-## 🏆 Certifications
-
-* IBM SkillsBuild Certifications
-* Google Cloud Skills Boost Certifications
-* Deloitte Cybersecurity Virtual Experience Program
-* Mastercard Cybersecurity Virtual Experience Program
-* Tata Cybersecurity Virtual Experience Program
-* Commonwealth Bank Cybersecurity Virtual Experience Program
-* Udemy Cybersecurity Certifications
-* Various Workshop and Participation Certificates
+- **[OSINT Insight Pro](https://github.com/kishore-21-08/OSINT-Insight-pro)** — OSINT and reconnaissance tool for email, domain, and username investigations
+- **[Secure Login System](https://github.com/kishore-21-08/codealpha_projects)** — Authentication system built with security best practices
+- **[Web Vulnerability Scanner](https://github.com/kishore-21-08/vulnerability-scanner)** — Automated scanner for common web app vulnerabilities
+- **[Network Packet Sniffer](https://github.com/kishore-21-08/portscanner)** — Packet capture and analysis tool
+- **[Password Strength Analyzer](https://github.com/kishore-21-08/password-analyzer)** — Evaluates password strength and resistance to attacks
+- **[Phishing Detector](https://github.com/kishore-21-08/phishing-detector)** — Detects phishing indicators in emails and URLs
 
 ---
 
 ## 📚 Currently Learning
 
-* Google Cloud Security
-* Security Operations Center (SOC)
-* Wazuh SIEM
-* Splunk
-* Cloud Security
-* Linux Administration
-* Threat Hunting
-* Digital Forensics Fundamentals
-* Incident Response
-
----
-
-## 📈 GitHub Statistics
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishore-21-08&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-21-08&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kishore-21-08)
-```
-
----
-
-## 🔥 Contribution Graph
-
-```md
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishore-21-08)
-```
-
----
-
-## 🧰 Skill Icons
-
-```html
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask,linux,git,github,html,css,js,vscode" />
+<p align="center">
+  <img src="https://img.shields.io/badge/SOC-Security%20Operations%20Center-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wazuh-SIEM-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Splunk-Fundamentals-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Threat%20Hunting-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Incident%20Response-purple?style=flat-square" />
 </p>
-```
 
 ---
 
-## 👀 Profile Views
+## 🏆 Certifications
 
-```md
-![](https://komarev.com/ghpvc/?username=kishore-21-08)
-```
-
----
-
-## 🌐 Portfolio
-
-* Portfolio Website: https://kishore-r.onrender.com/
-* GitHub Portfolio: https://kishore-21-08.github.io/
+- Google Cloud Skills Boost
+- IBM SkillsBuild
+- Deloitte Cybersecurity Virtual Experience Program
+- Mastercard Cybersecurity Virtual Experience Program
+- Tata Cybersecurity Virtual Experience Program
+- Commonwealth Bank Cybersecurity Virtual Experience Program
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-* GitHub: https://github.com/kishore-21-08
-* LinkedIn: www.linkedin.com/in/kishore-r-07655733b
-* Email: kishore210806@gmail.com
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kishore-21-08&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-21-08&layout=compact&theme=tokyonight" />
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kishore-21-08&theme=tokyonight" />
+</p>
 
-## 🎯 Career Goals
-
-My goal is to become a skilled Cybersecurity Professional specializing in:
-
-* Cloud Security
-* Security Operations Center (SOC)
-* Threat Detection & Incident Response
-* Security Engineering
-* Vulnerability Assessment
-* Digital Forensics
-* Security Automation
-
-I am committed to continuous learning and contributing to the cybersecurity community through projects and open-source contributions.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore-21-08&theme=tokyo-night" />
+</p>
 
 ---
 
-> "Cybersecurity is not just about defending systems—it's about continuously learning, adapting, and building a safer digital world."
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kishore-r.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/kishore-21-08" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>⭐️ From <a href="https://github.com/kishore-21-08">kishore-21-08</a></i></p>
